@@ -57,7 +57,7 @@
 
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/Farizakb090)  &nbsp; 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://az.linkedin.com/in/fariz-akbarzada-890b9123a/en)  &nbsp; 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://az.linkedin.com/in/fariz-akbarzada)  &nbsp; 
 <a href="mailto:farizakbarzada@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
